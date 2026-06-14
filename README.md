@@ -13,7 +13,7 @@
 | Plateforme | Lien |
 |---|---|
 | **Android (APK)** | [⬇️ Dernière version](https://github.com/DiaSmartCM/diasmart-mobile/releases/latest) |
-| **Web App** | `https://diasmart.app` *(bientôt)* |
+| **Web App** | [🌐 Ouvrir](https://website-omega-umber-20.vercel.app) |
 
 ---
 
