@@ -13,7 +13,7 @@
 | Plateforme | Lien |
 |---|---|
 | **Android (APK)** | [⬇️ Dernière version](https://github.com/DiaSmartCM/diasmart-mobile/releases/latest) |
-| **Web App** | [🌐 Ouvrir](https://diasmart-cm.vercel.app) |
+| **Web App** | [🌐 Ouvrir](https://diasmartcm.vercel.app) |
 
 ---
 
